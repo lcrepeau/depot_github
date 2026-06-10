@@ -6,6 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "splinart"
 dynamic = ["version"]
 requires-python = ">=3.8"
+dependencies = ["numpy>=2.0.0,<2.1", "matplotlib>=3.8.4,<3.9"]
 
 license = { file = "LICENSE" }
 
