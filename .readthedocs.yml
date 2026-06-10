@@ -15,3 +15,7 @@ conda:
 
 sphinx:
   configuration: doc/environment.yml
+
+formats:
+    - pdf
+    - epub
