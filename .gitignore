@@ -3,4 +3,7 @@ _build
 .cache
 dist
 .ipynb_checkpoints
-__pycache__
+__pycache__/
+*.egg-info
+*.pyc
+*.pyo
